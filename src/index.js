@@ -12,4 +12,4 @@ let nivel
 
    }
 
-   console.log ( " o heroi de nome " + nomeHeroi + "está no nivel " + nivel );
+   console.log ( " o heroi de nome " + nomeHeroi + " está no nivel " + nivel );
